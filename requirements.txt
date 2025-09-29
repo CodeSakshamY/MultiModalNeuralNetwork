@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+lightgbm
+xgboost
+shap
+torch-geometric
+pyyaml
